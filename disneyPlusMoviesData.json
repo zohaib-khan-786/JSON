@@ -72,8 +72,8 @@
     },
     {
       "id": 8,
-      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/8E03D36760B6451E41ED9F7D6BCA350568ABFFC13616DB7E3344E255A947A99E/scale?width=1440&aspectRatio=1.78&format=jpeg",
-      "cardImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/E73190A47D46022740DA6906DE54EAE2D1659A9E1C3D3EE62A3D61D0AFC87E0/scale?width=400&aspectRatio=1.78&format=jpeg",
+      "backgroundImg": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9A115262450554620990F45242A2287B24E04EEF508B45BFF5C0318234048DA4/scale?width=768&aspectRatio=1.78&format=webp",
+      "cardImg": "https://image.tmdb.org/t/p/original/fLXLNDsOBZxpNleWF9Z4hubxBUQ.jpg",
       "description": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
       "subTitle": "2008 • 1h 38m • Animation, Family, Adventure, Science Fiction",
       "title": "WALL·E",
